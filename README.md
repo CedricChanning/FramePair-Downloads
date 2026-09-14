@@ -4,7 +4,7 @@ FramePair is a native macOS app for preparing JPEG photos for mobile-first socia
 
 FramePair helps landscape photos, including common 16:9 images, work better on vertical screens. Stack two or three matching photos into a taller composition with Merge, or divide one wide photo into consecutive left and right images with Split. Direct export is available when no rearrangement is needed.
 
-[Download FramePair 0.2 DMG](https://github.com/CedricChanning/FramePair-Downloads/releases/download/v0.2/FramePair-0.2-macOS-arm64.dmg) · [All releases](https://github.com/CedricChanning/FramePair-Downloads/releases) · [Report an issue](https://github.com/CedricChanning/FramePair-Downloads/issues)
+[Download FramePair 0.2 DMG](https://github.com/CedricChanning/FramePair/releases/download/v0.2/FramePair-0.2-macOS-arm64.dmg) · [All releases](https://github.com/CedricChanning/FramePair/releases) · [Report an issue](https://github.com/CedricChanning/FramePair/issues)
 
 FramePair 0.2 is a pre-release. The app is signed with Developer ID and notarized by Apple.
 
